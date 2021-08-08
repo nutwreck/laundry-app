@@ -17,6 +17,8 @@ https://git-scm.com/downloads
  - Laravel 8.51.0
  - Nginx:1.20
  - php:7.4.19-fpm
+ - MySQL:8.0
+ - redis:3.0
 
 ## Installation
  1. Git Clone
