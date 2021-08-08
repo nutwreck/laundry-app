@@ -48,22 +48,21 @@ https://git-scm.com/downloads
    `composer lint:fix`
  3. Setelah selesai diperbaiki, jalankan git add kembali sebelum push
    `git add .`
-
-Note : 
-    - Pastikan selalu melihat anda sedang di branch mana sebelum Push
-    - Template Pesan commit :
-        - Add: (Jika menambahkan file)
-            - ... (List file)
-            - ... (List file)
-        - Modify: (Jika mengupdate file)
-            - ... (List file)
-            - ... (List file)
-        - Delete: (Jika delete file)
-            - ... (List file)
-            - ... (List file)
-        - Fix: (Jika memperbaiki kesalahan modul)
-            - ... (List file)
-            - ... (List file)
+ 4. Note :
+    - **Pastikan selalu melihat anda sedang di branch mana sebelum Push**
+    - **Template Pesan commit :**
+        - **Add: (Jika menambahkan file)**
+            - **... (List file)**
+            - **... (List file)**
+        - **Modify: (Jika mengupdate file)**
+            - **... (List file)**
+            - **... (List file)**
+        - **Delete: (Jika delete file)**
+            - **... (List file)**
+            - **... (List file)**
+        - **Fix: (Jika memperbaiki kesalahan modul)**
+            - **... (List file)**
+            - **... (List file)**
 
 ## Port Docker
  - **nginx** - `:8080`
