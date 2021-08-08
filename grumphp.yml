@@ -1,0 +1,8 @@
+# grumphp.yml
+
+grumphp:
+    tasks:
+        phpcs:
+            standard: 
+                - 'phpcs-laravel'
+            exclude: ['ImportDetection.Imports.RequireImports', 'Generic.CodeAnalysis.UnusedFunctionParameter']
